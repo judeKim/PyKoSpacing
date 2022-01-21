@@ -1,3 +1,6 @@
 __pycache__
 .eggs
 dist
+build/
+.idea
+pykospacing.egg-info/
